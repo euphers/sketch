@@ -1,0 +1,42 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    background-color: #1f2973;
+}
+
+button {
+    background-color: #1f2973;
+    border: 2px solid #f9f9fe;
+    border-radius: 8px;
+    color: #f9f9fe;
+    font-weight: bold;
+    padding: 10px 25px;
+}
+
+#button {
+    padding-bottom: 20px;
+}
+
+#container {
+    /* width: 500px;
+    height: 500px; */
+    padding-top: 50px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.square {
+    width: 125px;
+    height: 125px;
+    background-color: #f9f9fe;
+}
+
+/* .square:hover {
+    background-color: #000000;
+} */
